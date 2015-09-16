@@ -1,0 +1,6 @@
+001-0569b00	T 001-0569b	buddhist/T-taisho/T33/05/T33-0569.png
+001-0569c00	T 001-0569c	buddhist/T-taisho/T33/05/T33-0569.png
+001-0570a00	T 001-0570a	buddhist/T-taisho/T33/05/T33-0570.png
+001-0570b00	T 001-0570b	buddhist/T-taisho/T33/05/T33-0570.png
+001-0570c00	T 001-0570c	buddhist/T-taisho/T33/05/T33-0570.png
+001-0571a00	T 001-0571a	buddhist/T-taisho/T33/05/T33-0571.png
