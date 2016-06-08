@@ -1,22 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:07.488726
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:04
 #+TITLE: 般若波羅蜜多心經註解
 #+PROPERTY: CBETA_ID T33n1714
 #+PROPERTY: ID KR6c0141
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1714
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0141_T_001-0569a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1714[cf.No.251]¶
+No. 1714 [cf. No. 251]¶
 
-御製心經序
-:PROPERTIES:
-:head: 御製心經序
-:END:
-¶
+* 御製心經序¶
 ¶
 
 二儀久判。萬物備周。子民者君。君育民者。法¶
@@ -61,14 +57,13 @@ No.1714[cf.No.251]¶
 孰取保命者何如。若取有道保有方。豈不佛¶
 法之良哉。色空之妙乎。¶
 ¶
-
- 般若波羅蜜多心經註解¶
+般若波羅蜜多心經註解¶
 ¶
 唐三藏法師玄奘奉　詔譯¶
 大明天界善世禪寺¶
 住持(臣)僧(宗泐)¶
 演福講寺¶
-住持(臣)僧(如玘)奉詔同註¶
+住持(臣)僧(如󰃗)奉詔同註¶
 
 按施護譯本。世尊在靈鷲山中。入甚深光明。¶
 宣說正法三摩提。舍利子白觀自在菩薩言。¶
