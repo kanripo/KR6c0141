@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:07.488726
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:04
 #+TITLE: 般若波羅蜜多心經註解
 #+PROPERTY: CBETA_ID T33n1714
 #+PROPERTY: ID KR6c0141
@@ -12,7 +12,7 @@
 ¶
 No.1714[cf.No.251]¶
 
-御製心經序
+* 御製心經序
 :PROPERTIES:
 :head: 御製心經序
 :END:
